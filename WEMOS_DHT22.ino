@@ -1,4 +1,4 @@
-#include <DHT.h>
+#include <DHT.h
 #include <ESP8266WiFi.h>
 #include <PubSubClient.h>
 
@@ -9,7 +9,7 @@ DHT dht(DHTPIN, DHTTYPE);
 
 // WiFi
 const char* ssid = "ISKANDARIAN";
-const char* password = "LUPATERUS22";
+const char* password = "LUPATERUS22"
 
 // MQTT
 const char* mqtt_server = "test.mosquitto.org";
