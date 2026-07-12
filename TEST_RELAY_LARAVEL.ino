@@ -37,7 +37,7 @@ void setup_wifi() {
     Serial.print(".");
   }
 
-  Serial.println("\nWiFi terkoneksi ✅");
+  Serial.println("\nWiFi terkoneksi ");
   Serial.print("IP address: ");
   Serial.println(WiFi.localIP());
 }
