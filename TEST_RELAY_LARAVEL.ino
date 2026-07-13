@@ -4,7 +4,7 @@
 // ===========================
 // KONFIGURASI WIFI & MQTT
 // ===========================
-const char* ssid = "ISKANDARIAN"
+const char* ssid = "ISKANDARIAN";
 const char* password = "LUPATERUS22";
 
 // Broker publik Mosquitto
